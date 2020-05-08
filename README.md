@@ -7,4 +7,4 @@ ES 5 Prototype method
 ES 6 class declaration
 ES 6 Prototype method
 
-#Event Deligation methodlogy used to delete books. 
+## Event Deligation methodlogy used to delete books. 
